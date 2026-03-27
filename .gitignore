@@ -10,6 +10,7 @@ game/tl/None
 !game/tl/russian
 !game/screens.rpy
 !game/gui.rpy
+!game/gallery_navigation.rpy
 
 files.txt
 log.txt
