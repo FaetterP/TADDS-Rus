@@ -8,11 +8,11 @@ screen gallery_navigation:
         yalign 0.0
         yoffset 150
 
-        textbutton "Помни" action ShowMenu("gallery_b")
-        textbutton "Джекс" action ShowMenu("gallery_a")
-        textbutton "Рагата" action ShowMenu("gallery_c")
-        textbutton "Гэнгл" action ShowMenu("gallery_d")
-        textbutton "Зубл" action ShowMenu("gallery_e")
+        textbutton _("Pomni") action ShowMenu("gallery_b")
+        textbutton _("Jax") action ShowMenu("gallery_a")
+        textbutton _("Ragatha") action ShowMenu("gallery_c")
+        textbutton _("Gangle") action ShowMenu("gallery_d")
+        textbutton _("Zooble") action ShowMenu("gallery_e")
         textbutton "Return":
             action Return()
             xoffset 300

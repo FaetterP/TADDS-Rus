@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-03-27 11:51
+﻿# TODO: Translation updated at 2026-03-27 13:28
 
 # game/script.rpy:426
 translate russian start_57dd338d:
@@ -10813,6 +10813,74 @@ translate russian wackywatch_84e86d96:
     ""
 
 translate russian strings:
+
+    # game/script.rpy:8
+    old "JAX"
+    new ""
+
+    # game/script.rpy:9
+    old "RAGATHA"
+    new ""
+
+    # game/script.rpy:10
+    old "GANGLE"
+    new ""
+
+    # game/script.rpy:11
+    old "POMNI"
+    new ""
+
+    # game/script.rpy:12
+    old "ZOOBLE"
+    new ""
+
+    # game/script.rpy:13
+    old "KINGER"
+    new ""
+
+    # game/script.rpy:14
+    old "CAINE"
+    new ""
+
+    # game/script.rpy:15
+    old "BUBBLE"
+    new ""
+
+    # game/script.rpy:17
+    old "ZOOBLE & GANGLE"
+    new ""
+
+    # game/script.rpy:18
+    old "RAGATHA & POMNI"
+    new ""
+
+    # game/script.rpy:19
+    old "XDDCC"
+    new ""
+
+    # game/script.rpy:20
+    old "NPC"
+    new ""
+
+    # game/script.rpy:21
+    old "MING"
+    new ""
+
+    # game/script.rpy:22
+    old "SIR BASTION"
+    new ""
+
+    # game/script.rpy:23
+    old "MAID"
+    new ""
+
+    # game/script.rpy:24
+    old "???"
+    new ""
+
+    # game/script.rpy:25
+    old "GLOINK QUEEN"
+    new ""
 
     # game/script.rpy:489
     old "Yep! That's my name."
