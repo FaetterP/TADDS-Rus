@@ -16,13 +16,13 @@ log.txt
 traceback.txt
 errors.txt
 
-gui/*
-saves/*
-tl/*
-custom_screens.rpy
-gui.rpy
-options.rpy
-screens.rpy
+/gui/*
+/saves/*
+/tl/*
+/custom_screens.rpy
+/gui.rpy
+/options.rpy
+/screens.rpy
 
 DEMO.exe
 DEMO.py
