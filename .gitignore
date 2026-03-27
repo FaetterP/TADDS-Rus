@@ -11,6 +11,7 @@ game/tl/None
 !game/screens.rpy
 !game/gui.rpy
 !game/gallery_navigation.rpy
+!game/script.rpy
 
 files.txt
 log.txt
