@@ -13,6 +13,10 @@ game/tl/None
 !game/gallery_navigation.rpy
 !game/script.rpy
 
+!game/fonts
+game/fonts/*
+!game/fonts/Melon Pop.ttf
+
 files.txt
 log.txt
 traceback.txt
