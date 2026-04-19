@@ -4,439 +4,439 @@
 translate russian start_57dd338d:
 
     # c "Welcome to the Amazing Digital Dating Simulator! A slice-of-life styled school setting where anything and everything is possible!"
-    c ""
+    c "Добро пожаловать в удивительный цифровой симулятор свиданок! Жизнь в стиле школы, где всё и вся возможно!"
 
 # game/script.rpy:431
 translate russian start_6e75e571:
 
     # c "I'm Caine, and I'll be your Principal for the duration of your stay here at the Amazing Digital Academy!"
-    c ""
+    c "Я Кейн, и я буду вашим директором на то время, пока вы находитесь здесь, в Удивительной Цифровой академии!"
 
 # game/script.rpy:442
 translate russian start_35f123e3:
 
     # c "Help your classmates, pull pranks on the teacher,"
-    c ""
+    c "Помогайте своим одноклассникам, устраивайте пранки над учителем,"
 
 # game/script.rpy:447
 translate russian start_d50a7d34:
 
     # c "become a straight A student, or a rule-breaking delinquent!"
-    c ""
+    c "Станьте отличником или нарушителем правил!"
 
 # game/script.rpy:452
 translate russian start_e273b2d5:
 
     # c "All this while possibly finding love along the way!"
-    c ""
+    c "И заодно, возможно, найдите любовь!"
 
 # game/script.rpy:464
 translate russian start_4e3826a6:
 
     # c "But enough about my wonderful creation!"
-    c ""
+    c "Но хватит о моём прекрасном творении!"
 
 # game/script.rpy:469
 translate russian start_7fb28ee0:
 
     # c "Let's get you enrolled! First thing's first, what uniform will you be dawning?"
-    c ""
+    c "Давай оформим тебя! Сначала скажи, в какой форме ты будешь?"
 
 # game/script.rpy:477
 translate russian start_fa92b1b7:
 
     # c "Sounds good! How about your name? What should we call you?"
-    c ""
+    c "Чудесно! Что на счёт твоего имени? Как нам тебя называть?"
 
 # game/script.rpy:486
 translate russian choosename_824231ca:
 
     # c "[avatar], huh? Are you sure you like that name?"
-    c ""
+    c "[avatar], да? Вы уверены, что вам нравится это имя?"
 
 # game/script.rpy:500
 translate russian name_yes_b33fef91:
 
     # c "Alrighty then, [avatar]!"
-    c ""
+    c "Ладушки, [avatar]!"
 
 # game/script.rpy:501
 translate russian name_yes_425e9cdb:
 
     # c "Then let's head inside!"
-    c ""
+    c "Теперь же отправимся внутрь!"
 
 # game/script.rpy:511
 translate russian name_yesdone_358a4ec7:
 
     # "Hi, my name is [avatar], I’m a transfer student to The Amazing Digital Academy."
-    ""
+    "Привет, меня зовут [avatar], и я перевожусь в Удивительную Цифровую Академию."
 
 # game/script.rpy:513
 translate russian name_yesdone_3a26aa5e:
 
     # "My parents moved to the countryside after a vague, tragic event that changed the course of our lives."
-    ""
+    "Мои родители переехали за город после одного неясного, но трагического события, которое перевернуло нашу жизнь."
 
 # game/script.rpy:515
 translate russian name_yesdone_3a799896:
 
     # "After I said goodbye to all my old friends, my parents got my transcripts and packed up the car."
-    ""
+    "После прощания со всеми старыми друзьями, мои родители забрали мои документы и подготовили машину."
 
 # game/script.rpy:517
 translate russian name_yesdone_249a0d52:
 
     # "Today is my first day at this new school."
-    ""
+    "Сегодня мой первый день в новой школе."
 
 # game/script.rpy:524
 translate russian name_yesdone_1408305e:
 
     # "I glance down at my class schedule. This should be ENGLISH 101 with Mr. Kinger. So where is the teacher?"
-    ""
+    "Я мельком смотрю на расписание уроков. Должен быть Английский 101 с Мистером Королёром... Но где же он?"
 
 # game/script.rpy:526
 translate russian name_yesdone_be36ce92:
 
     # "As I step into the room to let in any other students that might be late to class, someone else hops into the room."
-    ""
+    "Когда я вхожу в класс, чтобы пропустить возможных опоздавших студентов, кто-то ещё врывается в класс."
 
 # game/script.rpy:528
 translate russian name_yesdone_668d90ee:
 
     # "The figure looks like a tall white piece from a gaming set. Specifically, he looks like a king in chess."
-    ""
+    "Он выглядит как высокая белая фигура из набора игр. Конкретнее, как король из шахмат."
 
 # game/script.rpy:530
 translate russian name_yesdone_3dd9ad9e:
 
     # "It takes me a moment to put two and two together, but when I do, I almost groan at the pun. Surely his name can’t really be"
-    ""
+    "Это заняло у меня мгновение, чтобы сложить дважды два, но когда до меня доходит, я тяжко вздыхаю от этой игры слов. Его имя же не может быть..."
 
 # game/script.rpy:534
 translate russian name_yesdone_a59de6eb:
 
     # k "Hello, my name is Kinger."
-    k ""
+    k "Приветствую, меня зовут Королёр."
 
 # game/script.rpy:539
 translate russian name_yesdone_209208ea:
 
     # k "You must be pleased to meet me!"
-    k ""
+    k "Должно быть, вы рады со мной познакомиться!"
 
 # game/script.rpy:541
 translate russian name_yesdone_eb39489f:
 
     # "Mr. Kinger extends a gloved hand, which I shake more out of instinct than out of a genuine sense of excitement."
-    ""
+    "Мистер Королёр протягивает мне руку в перчатке, которую я пожимаю больше из привычки, нежели из-за искренней радости."
 
 # game/script.rpy:546
 translate russian name_yesdone_d191dcc8:
 
     # k "Good morning students! On the docket today we have a new student named...!"
-    k ""
+    k "Доброе утро, студенты! На повестке дня у нас новый студент по имени…!"
 
 # game/script.rpy:551
 translate russian name_yesdone_934e37b6:
 
     # k "Oh, uh what’s your name again?"
-    k ""
+    k "Ой, а ещё раз, как тебя зовут?"
 
 # game/script.rpy:573
 translate russian day1homeroom_f082df16:
 
     # k "Righty oh! Go on and take any open seat, [avatar], most of our students don’t bite!"
-    k ""
+    k "Хорошо! Вперёд, занимай любое свободное место, [avatar], большинство наших студентов не кусаются!"
 
 # game/script.rpy:575
 translate russian day1homeroom_d7978b48:
 
     # "One of the other students, a purple rabbit, seems to grin at this."
-    ""
+    "Один из студентов, фиолетовый кролик, казалось, ухмыльнулся над этим."
 
 # game/script.rpy:577
 translate russian day1homeroom_da305de3:
 
     # "I take a moment to think of who to sit by."
-    ""
+    "Пришлось задуматься о том, с кем сесть."
 
 # game/script.rpy:608
 translate russian jaxsit_b3cea8dd:
 
     # "I sit down next to the purple rabbit. He looks bored by Mr. Kinger’s lecture."
-    ""
+    "Я сажусь рядом с фиолетовым кроликом. Ему не очень интересна лекция Мистера Королёра."
 
 # game/script.rpy:609
 translate russian jaxsit_f3eca10a:
 
     # "As I take a closer look, I see his name is written on a nameplate on his desk, apparently his name is Jax."
-    ""
+    "Присмотревшись, я замечаю его имя, написанное на табличке на столе, очевидно, что его зовут Джекс."
 
 # game/script.rpy:610
 translate russian jaxsit_b56ab0b0:
 
     # "As I get a closer look at Jax, I also see he’s working his jaw. Is he chewing gum?"
-    ""
+    "Рассматривая Джекса, я также замечаю, что он что-то жуёт. Возможно жвачку?"
 
 # game/script.rpy:612
 translate russian jaxsit_fe10bc37:
 
     # "He catches me looking at him, and I almost apologize for staring, but I can see he isn’t offended."
-    ""
+    "Он ловит мой взгляд, и я уже практически извиняюсь, но становится ясно, что он не обиделся."
 
 # game/script.rpy:617
 translate russian jaxsit_ff558e82:
 
     # "Instead, he grins quietly before putting a finger up to his lips."
-    ""
+    "Вместо этого он тихо улыбается и прикладывает палец к своим губам."
 
 # game/script.rpy:620
 translate russian jaxsit_1b4b1a33:
 
     # "He takes the chewed gum between his gloved fingers, reaching out towards the girl in front of us."
-    ""
+    "Он берёт пожёванную жвачку между пальцами в перчатке и тянется к девочке впереди нас."
 
 # game/script.rpy:628
 translate russian jaxsit_509155c1:
 
     # "The girl in front of us has a ribbon for a body and a comedy mask for a face."
-    ""
+    "У той девочки тело из ленточек, а также маска комедии на лице."
 
 # game/script.rpy:630
 translate russian jaxsit_2eb991fe:
 
     # "She’s paying close attention to Mr. Kinger’s lecture, and Jax is reaching out with the gum on his hand."
-    ""
+    "Она внимательно слушает лекцию Мистера Королёра, а Джекс дотягивается до неё своей рукой с жвачкой."
 
 # game/script.rpy:632
 translate russian jaxsit_5e9ab931:
 
     # "Is he going to stick it on her mask?"
-    ""
+    "Он собирается прилепить её на маску?"
 
 # game/script.rpy:648
 translate russian choice1_gan_43fbf0f6:
 
     # a "Hey, what are you trying to do to her?"
-    a ""
+    a "Эй, что ты делаешь?"
 
 # game/script.rpy:656
 translate russian choice1_gan_0297fa45:
 
     # g "Huh?"
-    g ""
+    g "А?"
 
 # game/script.rpy:658
 translate russian choice1_gan_e5f2076f:
 
     # "Thanks to your advance notice, the ribbon girl manages to extend her mask forward, turning to face Jax with a panicked expression on her mask."
-    ""
+    "Благодаря вашему замечанию, девочка-ленточка успевает убрать маску, поворачиваясь на Джекса с напуганным взглядом."
 
 # game/script.rpy:660
 translate russian choice1_gan_2ed9ffd1:
 
     # "The ragdoll girl seems to notice this exchange as well."
-    ""
+    "Тряпичная кукла, очевидно, тоже заметила этот разговор."
 
 # game/script.rpy:665
 translate russian choice1_gan_e4e572ef:
 
     # r "Jax, leave her alone! I don’t even know why we let you sit behind her."
-    r ""
+    r "Джекс, оставь её в покое! Я совсем без понятия, почему мы разрешили сесть тебе прямо за ней."
 
 # game/script.rpy:667
 translate russian choice1_gan_756777f7:
 
     # "It sounds like this isn’t the first time Jax has tried something like this."
-    ""
+    "Звучит так, будто это не первый раз, когда Джекс вытворяет что-то подобное."
 
 # game/script.rpy:669
 translate russian choice1_gan_e62aab5c:
 
     # "Mr. Kinger’s attention is drawn by the ragdoll girl shouting at Jax."
-    ""
+    "Мистер Королёр обратил внимание на тряпичную куклу, что ругала Джекса."
 
 # game/script.rpy:677
 translate russian choice1_gan_d9062b41:
 
     # k "Where's going on?"
-    k ""
+    k "Где проблема?"
 
 # game/script.rpy:682
 translate russian choice1_gan_cbcc7d22:
 
     # "A flicker of annoyance crosses Jax’s features, and he narrows his eyes for a moment before grinning in faux-innocence, sticking the gum right back in his mouth without pause."
-    ""
+    "Нотка раздражения мелькает на лице Джекса, и он немного нахмуривается, но тут же ухмыляется в притворной невинности и сразу же кладёт жвачку обратно в рот."
 
 # game/script.rpy:688
 translate russian choice1_gan_b9d8d489:
 
     # j "Whaaaat?"
-    j ""
+    j "Чтоооо?"
 
 # game/script.rpy:690
 translate russian choice1_gan_73916495:
 
     # "He draws the word out, rolling his eyes as he looks directly at me."
-    ""
+    "Он растягивает слово, закатывая глаза и смотря прямо на меня."
 
 # game/script.rpy:695
 translate russian choice1_gan_0dcbc3d9:
 
     # j "I guess the newbie just hates fun. "
-    j ""
+    j "Похоже, новичку веселиться не дано."
 
 # game/script.rpy:697
 translate russian choice1_gan_a970a710:
 
     # "Despite Jax's disapproval, I can't help but notice the masked girl giving me a grateful look. I nod in her direction."
-    ""
+    "Не смотря на неодобрение от Джекса, можно заметить, что девочка в маске смотрит на меня с благодарностью. Я киваю ей в ответ."
 
 # game/script.rpy:708
 translate russian choice1_jax_ea1c6115:
 
     # "Jax reaches forward with practiced stealth, sticking the wet wad of already-been-chewed gum to the ribbon-girl’s mask."
-    ""
+    "Джекс наклоняется вперёд с натренированной скрытностью и прилепляет мокрый комок жвачки на маску девочки-ленточки."
 
 # game/script.rpy:710
 translate russian choice1_jax_09d97599:
 
     # "The ribbon girl lets out a quiet shriek of discomfort, flailing her arms as she desperately pulls away from Jax."
-    ""
+    "Девочка издаёт тихий возглас дискомфорта, она взмахивает руками, отчаянно пытаясь отодвинуться от Джекса."
 
 # game/script.rpy:715
 translate russian choice1_jax_e0e3a532:
 
     # g "Eeeeew! Jax! What is thaaat? What did you do? Eeeew!"
-    g ""
+    g "Иииууу! Джекс! Что этооо? Что ты сделал? Фиии!!!"
 
 # game/script.rpy:717
 translate russian choice1_jax_3bf5d573:
 
     # "Her whining and desperate flailing is a little funny, even as she feels around blindly behind her mask."
-    ""
+    "Её вопли и отчаянные метания были немного забавны, даже когда она вслепую ощупывает свою маску сзади."
 
 # game/script.rpy:719
 translate russian choice1_jax_1bcd2197:
 
     # "Her movements attract the attention of Mr. Kinger."
-    ""
+    "Её движения привлекли внимание Мистера Королёра."
 
 # game/script.rpy:727
 translate russian choice1_jax_af77edfb:
 
     # k "Where’s going on?"
-    k ""
+    k "Где проблема?"
 
 # game/script.rpy:729
 translate russian choice1_jax_e2677a56:
 
     # "He seems aware something is going on, but he doesn’t seem to know what. How is this guy teaching us?"
-    ""
+    "Казалось, он понимал, что что-то происходит, но не знал, что именно. Как он вообще нас то учит?"
 
 # game/script.rpy:734
 translate russian choice1_jax_058829c9:
 
     # z "Jax is just picking on Gangle again."
-    z ""
+    z "Джекс опять издевается над Гэнгл."
 
 # game/script.rpy:736
 translate russian choice1_jax_3b02404e:
 
     # "The mismatched figure pipes up from next to Gangle, who is evidently the ribbon girl that Jax just stuck his gum to"
-    ""
+    "Разно-детальная фигура предстала рядом с Гэнгл, кто очевидно была той девочкой-ленточкой, к которой Джекс прилепил жвачку"
 
 # game/script.rpy:741
 translate russian choice1_jax_8a3d0ab7:
 
     # z "Here Gangle, let's go to the bathroom so we can wash it off."
-    z ""
+    z "Давай, Гэнгл, пойдём в уборную, чтобы мы могли это смыть."
 
 # game/script.rpy:749
 translate russian choice1_jax_1e7609c0:
 
     # k " Oh yes, carry on then, Zooble!"
-    k ""
+    k "О, да, позаботься об этом, Зубл!"
 
 # game/script.rpy:751
 translate russian choice1_jax_9252ae7e:
 
     # "Nothing phases this teacher."
-    ""
+    "Ничего до этого учителя не доходит."
 
 # game/script.rpy:759
 translate russian choice1_jax_9fda44c9:
 
     # "Zooble glares daggers into the rabbit as they leave."
-    ""
+    "Взгляд Зубл впивается в кролика, после чего она уходит."
 
 # game/script.rpy:767
 translate russian choice1_jax_eb34a442:
 
     # j "What? It was funny, right? Back me up here."
-    j ""
+    j "Чё? Это ж было весело, правда? Скажи им!"
 
 # game/script.rpy:769
 translate russian choice1_jax_21a87a6d:
 
     # "Jax turns to face me."
-    ""
+    "Джекс повернулся лицом ко мне."
 
 # game/script.rpy:778
 translate russian choice1_jax_d02006cc:
 
     # "Jax smirks as I take his side. It was a pretty good prank!"
-    ""
+    "Джекс ухмыльнулся, когда я встаю на его сторону. Это был очень хороший пранк!"
 
 # game/script.rpy:780
 translate russian choice1_jax_0fbd732e:
 
     # j "Heh, you’re not so bad, new kid, maybe you can teach these losers how to grow a sense of humor."
-    j ""
+    j "Хех, а ты не так уж плох, новичок, может научишь этих лузеров чувству юмора."
 
 # game/script.rpy:782
 translate russian choice1_jax_75111fc7:
 
     # "I smirk back. Maybe things at this school won’t be so bad."
-    ""
+    "Я ухмыляюсь в ответ. Может в этой школе не всё будет ужасно."
 
 # game/script.rpy:791
 translate russian choice1_jax_1562bec8:
 
     # "Jax offers a thin smile as he leans over to me."
-    ""
+    "Джекс слегка улыбается, наклоняясь ко мне."
 
 # game/script.rpy:793
 translate russian choice1_jax_cc9b7f13:
 
     # j "It was very funny. You should try loosening up, new kid, you might have some actual fun."
-    j ""
+    j "Это было очень смешно. Тебе стоит расслабиться, новичок, может даже повеселишься по-настоящему."
 
 # game/script.rpy:795
 translate russian choice1_jax_e292a398:
 
     # "I can’t help but audibly gulp, and hope I haven’t thrown my lot in with the wrong person"
-    ""
+    "Я сглатываю ком в горле, надеясь, что не связываюсь не с тем человеком."
 
 # game/script.rpy:802
 translate russian choice1_jax_c59fffb1:
 
     # "Jax barely acknowledges my response, almost cutting me off before I finish saying my peace."
-    ""
+    "Джекс едва-ли обращает внимание на мой ответ, практически перебивая меня."
 
 # game/script.rpy:804
 translate russian choice1_jax_b9a166ab:
 
     # j "Everyone’s a critic."
-    j ""
+    j "Все тут критики."
 
 # game/script.rpy:806
 translate russian choice1_jax_51efa9b1:
 
     # "Jax shrugs."
-    ""
+    "Джекс пожимает плечами."
 
 # game/script.rpy:819
 translate russian ragsit_a90c9c05:
@@ -718,907 +718,907 @@ translate russian jaxpranks1_d7c6d02e:
 translate russian kingsit_265d3c4f:
 
     # "I sit on Kinger’s open seat behind his desk."
-    ""
+    "Я сажусь на пустое кресло Королёра за его стол."
 
 # game/script.rpy:1029
 translate russian kingsit_ac8a4cc2:
 
     # "The chess piece blinks at me for a moment before surveying the other open desks. He seems content to let me take his seat."
-    ""
+    "Шахматная фигура несколько раз моргает, смотря на меня, далее осматривая другие свободные места. Похоже он рад, что позволил мне сесть на его место."
 
 # game/script.rpy:1033
 translate russian kingsit_e13133c0:
 
     # k " I guess you’re the teacher now."
-    k ""
+    k "Думаю, теперь учитель это ты."
 
 # game/script.rpy:1035
 translate russian kingsit_3e5f7f1e:
 
     # "The mismatched figure speaks up, raising their hand before calling out to Mr. Kinger."
-    ""
+    "Разно-детальная фигура поднимает руку и начинает говорить с Мистером Королёром."
 
 # game/script.rpy:1040
 translate russian kingsit_94158098:
 
     # z "Very funny, Kinger. You have to teach the class, now make them pick another seat."
-    z ""
+    z "Очень смешно, Королёр. Ты должен учить класс, так что пусть на другое место сядет."
 
 # game/script.rpy:1045
 translate russian kingsit_802ec360:
 
     # "Mr. Kinger looks at me apologetically."
-    ""
+    "Мистер Королёр извиняюще смотрит на меня."
 
 # game/script.rpy:1050
 translate russian kingsit_815716e8:
 
     # k "Sorry, but them’s the rules kid."
-    k ""
+    k "Прости, но правила есть правила."
 
 # game/script.rpy:1061
 translate russian gansit_1c3da1db:
 
     # "I sit next to the shy-looking girl with a comedy mask and ribbon body."
-    ""
+    "Я сажусь рядом со стеснительной девочкой в комедийной маске и ленточным телом."
 
 # game/script.rpy:1063
 translate russian gansit_db92d6f3:
 
     # "But even as I sit down and look at my new desk neighbor, she doesn’t seem to have noticed me."
-    ""
+    "Но даже когда я сажусь и смотрю на свою новую соседку по парте, она меня не замечает."
 
 # game/script.rpy:1065
 translate russian gansit_c0138ff4:
 
     # "Instead, she’s drawing something in her sketchbook. I’m not used to being ignored like this, so I lean over to see what she’s drawing."
-    ""
+    "Вместо этого она что-то рисует в своём блокноте. Мне непривычно, что меня так игнорируют, поэтому я наклоняюсь, чтобы посмотреть, что же именно."
 
 # game/script.rpy:1067
 translate russian gansit_74b5c64c:
 
     # "Once she notices me, she flinches away, blushing furiously."
-    ""
+    "Когда она меня замечает, она одёргивается, сильно смущаясь."
 
 # game/script.rpy:1072
 translate russian gansit_9ddcfee1:
 
     # "Oh sorry! I-I didn’t see you there!"
-    ""
+    "Ой прости! Я-я тебя не заметила!"
 
 # game/script.rpy:1077
 translate russian gansit_426e74bd:
 
     # "You’re the new student, right [avatar]? I’m Gangle…"
-    ""
+    "Ты новый студент, да, [avatar]? Я Гэнгл..."
 
 # game/script.rpy:1079
 translate russian gansit_88bdff41:
 
     # "She seems really timid, I’m not sure there’s anything I could do that would make her feel at ease."
-    ""
+    "Она кажется очень застенчивой, я сомневаюсь, что смогу сделать хоть что-то, что её расслабит."
 
 # game/script.rpy:1081
 translate russian gansit_7804909d:
 
     # a "Nice to meet you Gangle, what are you working on?"
-    a ""
+    a "Приятно познакомиться, Гэнгл, над чем ты работаешь?"
 
 # game/script.rpy:1086
 translate russian gansit_237448b5:
 
     # g "Oh these?"
-    g ""
+    g "О, это?"
 
 # game/script.rpy:1088
 translate russian gansit_df1de162:
 
     # "Gangle seems surprised by the question but doesn’t shy away from responding"
-    ""
+    "Гэнгл удивляется вопросу, но не стесняется ответить"
 
 # game/script.rpy:1093
 translate russian gansit_cfd18f0d:
 
     # g "Uhm well, sometimes I just like to sketch, they’re not really good or anything."
-    g ""
+    g "Э, ну, иногда мне просто нравится делать наброски, они не очень хороши или типо того."
 
 # game/script.rpy:1095
 translate russian gansit_0e56f202:
 
     # a "That’s cool, so you’re an art student?"
-    a ""
+    a "Это круто! Тоесть ты художница?"
 
 # game/script.rpy:1097
 translate russian gansit_c251873f:
 
     # "Gangle offers me a sheepish smile."
-    ""
+    "Гэнгл одаривает меня робкой улыбкой."
 
 # game/script.rpy:1102
 translate russian gansit_7bcadeb8:
 
     # g "That’s right, I guess you could call me an artist."
-    g ""
+    g "Ну да, думаю ты можешь называть меня художницей."
 
 # game/script.rpy:1104
 translate russian gansit_b43dde9f:
 
     # "She pauses a moment, seeming to revel in that statement, before timidly correcting herself."
-    ""
+    "Она замолкла на секунду, чтобы насладиться этим утверждением, а затем застенчиво себя поправила."
 
 # game/script.rpy:1109
 translate russian gansit_ca2cee42:
 
     # g "I mostly just sketch and stuff. Nothing crazy."
-    g ""
+    g "Я преимущественно только наброски делаю. Ничего особенного."
 
 # game/script.rpy:1111
 translate russian gansit_4ae51860:
 
     # "Right as I catch a glimpse of her happy demeanor, she retreats back into her own shyness."
-    ""
+    "Только я замечаю проблеск её радостного настроения, она возвращается назад в своё стеснение."
 
 # game/script.rpy:1113
 translate russian gansit_7b8f9f2d:
 
     # "I’m about to open my mouth to ask about her skittishness when the abstract figure near me speaks up."
-    ""
+    "Я собираюсь спросить об её робкости, как вдруг абстрактная фигура возле меня начинает говорить."
 
 # game/script.rpy:1121
 translate russian gansit_f645dd84:
 
     # z "Gangle’s just being modest."
-    z ""
+    z "Гэнгл просто скромная."
 
 # game/script.rpy:1126
 translate russian gansit_f6330418:
 
     # z "She’s actually a really good artist, and the star of our school’s art club."
-    z ""
+    z "На самом деле она очень хорошая художница, и звезда нашего художественного клуба."
 
 # game/script.rpy:1131
 translate russian gansit_b5dc29c5:
 
     # "Gangle blushes again, giving another one of the shy smiles that seem to be her trademark."
-    ""
+    "Гэнгл снова смущается, показывая ещё одну робкую улыбку, что, кажется, является её фишкой."
 
 # game/script.rpy:1132
 translate russian gansit_da41acd6:
 
     # "The blush and the smile are kind of cute on her."
-    ""
+    "Румянец и улыбка на ней довольно милые."
 
 # game/script.rpy:1134
 translate russian gansit_de164d0b:
 
     # g "Oh, thanks"
-    g ""
+    g "Оу, спасибо"
 
 # game/script.rpy:1139
 translate russian gansit_e3c207ee:
 
     # g "I think your art is really good too, Zooble!"
-    g ""
+    g "Я думаю твои рисунки тоже очень хорошие, Зубл!"
 
 # game/script.rpy:1141
 translate russian gansit_75e779fd:
 
     # "So that’s what their name is!"
-    ""
+    "Так вот как её зовут!"
 
 # game/script.rpy:1143
 translate russian gansit_78edebc7:
 
     # "Gangle seemed pretty confident talking to Zooble, they must have a history."
-    ""
+    "Гэнгл очень уверено разговаривает с Зубл, у них должно быть есть история."
 
 # game/script.rpy:1145
 translate russian gansit_348db1d4:
 
     # a "So you’re both artists?"
-    a ""
+    a "Так вы вдвоём художницы?"
 
 # game/script.rpy:1147
 translate russian gansit_7aa115a9:
 
     # "Zooble shrugs."
-    ""
+    "Зубл пожимает плечами."
 
 # game/script.rpy:1152
 translate russian gansit_4ece991f:
 
     # z "I do a little bit when I have time, I don’t do it as often as Gangle though."
-    z ""
+    z "Я иногда рисую, когда время есть, но не так часто, как Гэнгл."
 
 # game/script.rpy:1154
 translate russian gansit_f81d74b8:
 
     # a "Huh, can I see your art…"
-    a ""
+    a "А можно посмотреть на твои рисунки..."
 
 # game/script.rpy:1174
 translate russian ganart_46096339:
 
     # "I asked Gangle to see her art first."
-    ""
+    "Сперва я прошу Гэнгл показать её рисунки."
 
 # game/script.rpy:1179
 translate russian ganart_9153e118:
 
     # g " O-oh well maybe uhm..."
-    g ""
+    g "О-оу, ну, может быть, эм..."
 
 # game/script.rpy:1184
 translate russian ganart_081dc59f:
 
     # "She rifles through the papers, taking a few moments to look for one she deems good enough to show."
-    ""
+    "Она переберает бумажки, выбирая среди них рисунок, который был бы достаточно хорош для показа."
 
 # game/script.rpy:1189
 translate russian ganart_5907e64c:
 
     # "She timidly hands me the sketch."
-    ""
+    "Она застенчиво протягивает мне набросок."
 
 # game/script.rpy:1191
 translate russian ganart_18ecd94a:
 
     # "An anime style sketch, complete with big eyes, small mouth, and a big head."
-    ""
+    "Набросок в стиле аниме, с большими глазами, маленьким ртом и большой головой."
 
 # game/script.rpy:1193
 translate russian ganart_5da2d3ff:
 
     # "Upon further inspection it kind of looks familiar. Gangle interrupts your thoughts."
-    ""
+    "При детальном рассмотрении он кажется знакомым. Гэнгл прерывает твои мысли."
 
 # game/script.rpy:1198
 translate russian ganart_ad8bd55e:
 
     # g "It’s kind of a rough sketch…"
-    g ""
+    g "Это немного грубый набросок..."
 
 # game/script.rpy:1203
 translate russian ganart_7f307301:
 
     # "Please don’t look too close."
-    ""
+    "Пожалуйста, не смотри на него слишком близко."
 
 # game/script.rpy:1205
 translate russian ganart_9c286fc9:
 
     # "She says the latter phrase under her breath, I'm not sure if she intends for me to hear her or not."
-    ""
+    "Последнюю фразу она говорит на вздохе, не знаю, хотела ли она дать мне её услышать, или нет."
 
 # game/script.rpy:1215
 translate russian ganart_1a5b12c2:
 
     # "Gangle smiles and blushes, timidly taking back her sketch and giggling."
-    ""
+    "Гэнгл улыбается и смущается, робко забирая свой набросок и хихикая."
 
 # game/script.rpy:1217
 translate russian ganart_73cf8247:
 
     # g "Thank you…that’s really nice of you to say…"
-    g ""
+    g "Спасибо... Мило с твоей стороны такое говорить..."
 
 # game/script.rpy:1219
 translate russian ganart_69efe028:
 
     # "There’s a lingering warmth in her tone and smile as she goes back to sketching."
-    ""
+    "Её тон выражал тепло и улыбку и она вернулась к созданию набросков."
 
 # game/script.rpy:1224
 translate russian ganart_277be3f6:
 
     # "I feel like I’m getting along well with Gangle, despite her shyness."
-    ""
+    "Кажется, мне удалось поладить с Гэнгл, не смотря на её стеснительность."
 
 # game/script.rpy:1226
 translate russian ganart_959581f1:
 
     # "I try to pay attention to Mr. Kinger’s lecture, but I can’t help but steal an occasional glance at Gangle’s sketchbook."
-    ""
+    "Я пытаюсь обращать внимание на лекцию Мистера Королёра, но просто не могу не кидать взгляд на скетчбук Гэнгл."
 
 # game/script.rpy:1228
 translate russian ganart_b817d98c:
 
     # "When class is getting ready to end, I feel one of her ribbons gently tap my shoulder."
-    ""
+    "Когда урок подходит к концу, я чуствую как одна из её ленточек нежно стучит мне по плечу."
 
 # game/script.rpy:1230
 translate russian ganart_e9940021:
 
     # g "M-me and Zooble usually sit outside in the courtyard during Lunch, you should join us."
-    g ""
+    g "Я-я и Зубл обычно сидим снаружи во дворе во время обеда, тебе стоит к нам присоединиться."
 
 # game/script.rpy:1232
 translate russian ganart_f9abf1ac:
 
     # "I can’t deny the offer is very tempting."
-    ""
+    "Я не могу отвергнуть предложение, оно очень заманчивое"
 
 # game/script.rpy:1243
 translate russian ganart_2a08bf92:
 
     # g "Oh..."
-    g ""
+    g "Оу..."
 
 # game/script.rpy:1245
 translate russian ganart_afff1212:
 
     # "She takes her sketch back before hiding it under some papers."
-    ""
+    "Она забирает свой рисунок, после чего прячет её среди бумаг."
 
 # game/script.rpy:1246
 translate russian ganart_4b1712f6:
 
     # "She’s trying to hide it, but I can see she’s on the verge of tears."
-    ""
+    "Хоть она и пытается это скрыть, но я вижу, что она на грани слёз."
 
 # game/script.rpy:1254
 translate russian ganart_8a77515b:
 
     # z "You don’t have to be rude about it. Just because you don’t like it doesn’t mean it isn’t good."
-    z ""
+    z "Не стоит тебе грубить. Просто потому что тебе не понравилось, ещё не значит, что рисунок плохой."
 
 # game/script.rpy:1256
 translate russian ganart_26d13f06:
 
     # "If looks could kill, Zooble would have made me wither to nothing on the spot."
-    ""
+    "Если бы взгляд мог убить, Зубл бы стёрла меня на месте."
 
 # game/script.rpy:1257
 translate russian ganart_04cf227e:
 
     # "Still, I don’t know what favors I’m doing anybody by pretending I like Gangle’s art."
-    ""
+    "И всё ещё, я не понимаю, кому услугу оказываю притворяясь, что мне нравятся рисунки Гэнгл."
 
 # game/script.rpy:1259
 translate russian ganart_300819da:
 
     # "The two of them ignore me for the rest of the lecture. That suits me fine. All I did was offer my genuine opinion."
-    ""
+    "Эти двое игнорировали меня остаток лекции. Но ничего страшного. Я ведь просто выражаю своё мнение."
 
 # game/script.rpy:1260
 translate russian ganart_b626dc47:
 
     # "Still, I keep my gaze to my own notebook and Mr. Kinger’s lecture until the lunch bell rings."
-    ""
+    "Всё ещё я держу своё внимание на тетради и на лекции Мистера Королёра, до тех пор, пока не звенит звонок на обед."
 
 # game/script.rpy:1266
 translate russian zoobart_52da2585:
 
     # "I turned to face Zooble to check out their art. Unlike Gangle, Zooble barely reacted to my request, tossing their notebook on my desk."
-    ""
+    "Я поворачивюсь к Зубл, чтобы посмотреть на её рисунок. В отличии от Гэнгл, Зубл практически не реагирует на мою просьбу, швыряя её тетрадь мне на стол."
 
 # game/script.rpy:1278
 translate russian zoobart_f96801ec:
 
     # "Have fun."
-    ""
+    "Повеселись."
 
 # game/script.rpy:1280
 translate russian zoobart_9bdd8fcd:
 
     # "I opened their notebook. There’s a sketch of something really intricate, the line work is complex and varied."
-    ""
+    "Я открываю её тетрадь. Внутри набросок чего-то замысловатого, линия запутана и разнообразна."
 
 # game/script.rpy:1281
 translate russian zoobart_4b5803b4:
 
     # "From a technical standpoint alone, this is impressive."
-    ""
+    "Только с технической точки зрения это впечетляюще."
 
 # game/script.rpy:1291
 translate russian zoobart_addf0ed0:
 
     # "Zooble doesn’t have a mouth, but what functions for their eyebrows tells me they're pleased by my compliment."
-    ""
+    "У Зубл нет рта, но по её бровям можно понять, что она довольна моим комплиментом."
 
 # game/script.rpy:1293
 translate russian zoobart_9ab04df4:
 
     # z "Thanks, [avatar]"
-    z ""
+    z "Спасибо, [avatar]"
 
 # game/script.rpy:1298
 translate russian zoobart_30ff1cfd:
 
     # "Zooble nods, paying attention to the lecture, then adds, as if it were an afterthought,"
-    ""
+    "Зубл кивает, обращая внимание на лекцию, а затем добавляет, будто мысль запоздала,"
 
 # game/script.rpy:1303
 translate russian zoobart_e802b0e4:
 
     # z "If you want to sit with me and Gangle, you can find us in the courtyard during lunch."
-    z ""
+    z "Если захочешь посидеть со мной и Гэнгл, то можешь найти нас во дворе во время обеда."
 
 # game/script.rpy:1305
 translate russian zoobart_0934b080:
 
     # "There wasn’t a lot of enthusiasm in that invitation, but Zooble doesn’t seem to get excited for anything, so I don’t take it personally."
-    ""
+    "В этом приглашении не было много энтузиазма, но Зубл не собиралась приходить в восторг, так что мною это не было воспринято близко к сердцу."
 
 # game/script.rpy:1306
 translate russian zoobart_41767d46:
 
     # "Better than sitting alone like I used to at my old school."
-    ""
+    "Это лучше, чем сидеть в одиночку, что много раз было в моей старой школе."
 
 # game/script.rpy:1317
 translate russian zoobart_665dc465:
 
     # "Zooble snatched their notebook back from me, their eyes narrowing."
-    ""
+    "Зубл вырывает свою тетрадь от меня, её глаза сузились."
 
 # game/script.rpy:1318
 translate russian zoobart_3fd5b89e:
 
     # "I didn’t think they would be so sensitive about their art."
-    ""
+    "Неожиданно, что она так чуствительна из-за рисунка."
 
 # game/script.rpy:1323
 translate russian zoobart_764bf8f8:
 
     # z "Yeah, I guess I have too."
-    z ""
+    z "Да, мне тоже, полагаю."
 
 # game/script.rpy:1325
 translate russian zoobart_5e201256:
 
     # "They’re looking directly at my face instead of at my art. Ouch!"
-    ""
+    "Она смотрела прямо мне в лицо, вместо моего рисунка. Ауч!"
 
 # game/script.rpy:1327
 translate russian zoobart_9c575df4:
 
     # "As Zooble glares at me, Gangle moves over to soothe their temper."
-    ""
+    "Зубл впилась в меня взглядом, Гэнгл пододвинулась ближе, чтобы успокоить её."
 
 # game/script.rpy:1335
 translate russian zoobart_6d1c6072:
 
     # g "I-I think your art is good, Zooble!"
-    g ""
+    g "Я-я думаю твой рисунок хороший, Зубл!"
 
 # game/script.rpy:1340
 translate russian zoobart_b720ab0c:
 
     # "Zooble’s scorn is averted from me as they begins to talk to Gangle. The two of them ignore me for the rest of the lecture."
-    ""
+    "Презрение Зубл в мою сторону прекращается, когда она начинает говорить с Гэнгл. Эти двое игнорировали меня остаток лекции."
 
 # game/script.rpy:1341
 translate russian zoobart_f3d125d5:
 
     # "That suits me fine. Zooble seems a little too easy to offend, all I did was offer my genuine opinion."
-    ""
+    "Но ничего страшного. Зубл просто слишком просто вывести из себя, я ведь просто выражаю своё мнение."
 
 # game/script.rpy:1342
 translate russian zoobart_b626dc47:
 
     # "Still, I keep my gaze to my own notebook and Mr. Kinger’s lecture until the lunch bell rings."
-    ""
+    "Всё ещё я держу своё внимание на тетради и на лекции Мистера Королёра, до тех пор, пока не звенит звонок на обед."
 
 # game/script.rpy:1352
 translate russian pomsit_0f89b0be:
 
     # "I take a seat next to the girl in the colorful hat."
-    ""
+    "Я сажусь рядом с девушкой в разноцветной шляпе."
 
 # game/script.rpy:1356
 translate russian pomsit_b0d6aa49:
 
     # p "Oh, um, hi!"
-    p ""
+    p "Ох, эм, привет!"
 
 # game/script.rpy:1358
 translate russian pomsit_e5f8cc76:
 
     # "She gives me a shy wave, as if she's surprised I want to sit next to her."
-    ""
+    "Она застенчиво машет мне рукой, будто не верит, что я хочу сесть рядом с ней."
 
 # game/script.rpy:1360
 translate russian pomsit_41511409:
 
     # a "Hello there."
-    a ""
+    a "Привет."
 
 # game/script.rpy:1362
 translate russian pomsit_c571958c:
 
     # "I squint down at her desk."
-    ""
+    "Я прищуриваюсь, рассматривая её парту."
 
 # game/script.rpy:1364
 translate russian pomsit_cd22d7a3:
 
     # "Written on it is the name XDDCC, though I'm pretty sure I heard another student address her as Pomni."
-    ""
+    "На ней написано имя ИКСДДЦЦ, хотя я помню, что другой студент называл ее Помни."
 
 # game/script.rpy:1366
 translate russian pomsit_86fd774b:
 
     # a "Uhm, Exduh..."
-    a ""
+    a "Ам, Иксд..."
 
 # game/script.rpy:1368
 translate russian pomsit_1a6ef98e:
 
     # a "Exduduch..."
-    a ""
+    a "Иксдыды..."
 
 # game/script.rpy:1373
 translate russian pomsit_bcf113f8:
 
     # p "I-it's Pomni."
-    p ""
+    p "Я-я Помни."
 
 # game/script.rpy:1375
 translate russian pomsit_2cefaf50:
 
     # "She says, covering the plaque on her desk with one of her gloves."
-    ""
+    "Говорит она, прикрывая табличку на своей парте одной из перчаткой."
 
 # game/script.rpy:1377
 translate russian pomsit_59eef2a0:
 
     # p "Just Pomni."
-    p ""
+    p "Просто Помни."
 
 # game/script.rpy:1379
 translate russian pomsit_eacee036:
 
     # "She lets out a sigh."
-    ""
+    "Она вздыхает."
 
 # game/script.rpy:1384
 translate russian pomsit_96a65803:
 
     # p "When I first got here, well, it's a long story...but basically I couldn't remember my name. So Caine tried to make one up for me."
-    p ""
+    p "Когда я в первые сюда попала, ну, это долгая история... но в общем я не могла вспомнить своё имя. Поэтому Кейн попытался придумать его для меня."
 
 # game/script.rpy:1389
 translate russian pomsit_53c4f58a:
 
     # p "For the first few days here, I was XDDCC."
-    p ""
+    p "Первые несколько дней здесь, я была ИКСДДЦЦ."
 
 # game/script.rpy:1391
 translate russian pomsit_dc05b007:
 
     # "How did she manage to pronounce that??"
-    ""
+    "Как ей вообще удалось это произнести??"
 
 # game/script.rpy:1396
 translate russian pomsit_d7660a65:
 
     # p "But nobody could pronounce that, so we ended up going with the second name he picked out, Pomni."
-    p ""
+    p "Но никто не мог произнести его, поэтому мы решили выбрать мне второе имя, Помни."
 
 # game/script.rpy:1398
 translate russian pomsit_47f87552:
 
     # "Guess that makes sense."
-    ""
+    "Наверное, это имеет смысл."
 
 # game/script.rpy:1400
 translate russian pomsit_8eacc375:
 
     # "As much sense as anything makes here at least."
-    ""
+    "Во всяком случае, это имеет столько же смысла, сколько и всё остольное здесь."
 
 # game/script.rpy:1405
 translate russian pomsit_b5e3007d:
 
     # p "Though come to think of it, since you just showed up, I'm officialy {i} not {/i} the newest one around here."
-    p ""
+    p "Хотя, если подумать, раз теперь ты здесь, я официально больше {i} не {/i} новенькая."
 
 # game/script.rpy:1410
 translate russian pomsit_2cacc3da:
 
     # p "So I can show you the ropes, if you're interested."
-    p ""
+    p "Так что я могу показать тебе, как тут всё устроено, если тебе интересно."
 
 # game/script.rpy:1412
 translate russian pomsit_dc10e726:
 
     # "Just as she says that, the ragdoll student at the front of class seems to take notice of us, walking over to our desks."
-    ""
+    "Как раз в тот момент, когда она это говорит, трипичная кукла в передней части класса, кажется, замечает нас и подходит к нашим партам."
 
 # game/script.rpy:1423
 translate russian pomsit_3d852a3d:
 
     # r "Oh, hi you two!"
-    r ""
+    r "О, приветик вам!"
 
 # game/script.rpy:1425
 translate russian pomsit_48a6c9fb:
 
     # r "Pomni, are you making friends with the new transfer student?"
-    r ""
+    r "Помни, ты уже успела подружиться с новым студентом?"
 
 # game/script.rpy:1430
 translate russian pomsit_ec464b8a:
 
     # p "Hey Ragatha..."
-    p ""
+    p "Привет Рагата..."
 
 # game/script.rpy:1432
 translate russian pomsit_098b9545:
 
     # p "Yep, just talking to [avatar]."
-    p ""
+    p "Агась, разговариваю с [avatar]."
 
 # game/script.rpy:1434
 translate russian pomsit_9f4fc59e:
 
     # "Pomni turns to me."
-    ""
+    "Помни поворачивается ко мне."
 
 # game/script.rpy:1439
 translate russian pomsit_0c5934b1:
 
     # p "Uh, [avatar], this is Ragatha. She's our class president."
-    p ""
+    p "Ам, [avatar], это Рагата. Она президент нашего класса."
 
 # game/script.rpy:1441
 translate russian pomsit_df5ebda4:
 
     # "Ragatha extends a hand towards me."
-    ""
+    "Рагата протягивает мне руку."
 
 # game/script.rpy:1446
 translate russian pomsit_10428091:
 
     # r "Welcome to our school, [avatar]! If you ever need help with anything at all, I'm your gal!"
-    r ""
+    r "Добро пожаловать в нашу школу, [avatar]! Если тебе когда нибудь понадобиться помощь в чём либо, я своя!"
 
 # game/script.rpy:1448
 translate russian pomsit_978a6cea:
 
     # "She beams."
-    ""
+    "Она сияет."
 
 # game/script.rpy:1453
 translate russian pomsit_72abf293:
 
     # r "I'm happy you and Pomni are getting along, can I tempt you with a tour of the school later?"
-    r ""
+    r "Я рада, что вы с Помни нашли общий язык. Может, потом проведу тебе экскурсию по школе?"
 
 # game/script.rpy:1455
 translate russian pomsit_2561cef8:
 
     # r "Maybe Pomni can come along too, what d'ya think?"
-    r ""
+    r "Может, Помни тоже пойдёт с нами, как думаешь?"
 
 # game/script.rpy:1457
 translate russian pomsit_319dc7ce:
 
     # "Pomni interjects,"
-    ""
+    "Помни вмешивается в разговор"
 
 # game/script.rpy:1462
 translate russian pomsit_21f723b1:
 
     # p "Oh, uh, that's really okay Ragatha. I've been on your tour a few times. I'll er- sit this one out."
-    p ""
+    p "Ох, ам, всё в порядке, Рагата. Я уже несколько раз была на твоей экскурсии. Я, э-э... в этот раз, пожалуй, пропущу."
 
 # game/script.rpy:1467
 translate russian pomsit_049d07d5:
 
     # r "Oh...you sure? Well okay! What do you say, [avatar]?"
-    r ""
+    r "Оу... ты уверена? Ну ладно! Что ты скажешь, [avatar]?"
 
 # game/script.rpy:1469
 translate russian pomsit_a0b9e698:
 
     # "She says, leaning towards me."
-    ""
+    "Говорит она, наклоняясь ко мне."
 
 # game/script.rpy:1494
 translate russian ragacuck_784d6701:
 
     # r "That's just swell, [avatar]!"
-    r ""
+    r "Просто замечательно, [avatar]!"
 
 # game/script.rpy:1496
 translate russian ragacuck_c7c4ddf5:
 
     # "Ragatha says with a pump of her fist before leaning over to Pomni."
-    ""
+    "Говорит Рагата, взмахнув кулаком, и затем наклоняется к Помни."
 
 # game/script.rpy:1501
 translate russian ragacuck_5026568e:
 
     # r "Are you suuuure you don't wanna come along, Pomni?"
-    r ""
+    r "Ты тооочно уверена что ты не хочешь пойти с нами, Помни?"
 
 # game/script.rpy:1503
 translate russian ragacuck_2b4c1749:
 
     # "Pomni looks away."
-    ""
+    "Помни отводит взгляд."
 
 # game/script.rpy:1508
 translate russian ragacuck_6981d9cf:
 
     # p "N-no, it's okay, you two have fun."
-    p ""
+    p "Н-нет, все хорошо, повеселитесь вдвоем."
 
 # game/script.rpy:1510
 translate russian ragacuck_1b8f4c93:
 
     # "Pomni's attention goes back to class, as Ragatha has monopolized my time."
-    ""
+    "Помни возвращается к занятиям, а Рагата тем временем завладела моим временем."
 
 # game/script.rpy:1518
 translate russian ragacuck_3c7c731a:
 
     # r "Welp! Guess it's just us this afternoon, [avatar]!"
-    r ""
+    r "Ладно! Похоже, этим днём мы вдвоём."
 
 # game/script.rpy:1520
 translate russian ragacuck_e66e4749:
 
     # "I guess so."
-    ""
+    "Похоже, что да."
 
 # game/script.rpy:1532
 translate russian pomchad_17fc703d:
 
     # p "O-oh? Cool..."
-    p ""
+    p "О-ох? Круто..."
 
 # game/script.rpy:1534
 translate russian pomchad_cae0b743:
 
     # "Pomni gives me a small smile"
-    ""
+    "Помни слабо улыбается мне."
 
 # game/script.rpy:1536
 translate russian pomchad_5256a57f:
 
     # r "Right, sure thing! I'll leave you two to it, then!"
-    r ""
+    r "Хорошо, без проблем! Тогда я вас оставлю!"
 
 # game/script.rpy:1538
 translate russian pomchad_124341f9:
 
     # "Ragatha seems to take it all in stride."
-    ""
+    "Походу, Рагата спокойно ко всему этому относится."
 
 # game/script.rpy:1543
 translate russian pomchad_a905e52b:
 
     # p "It's kind of cool to have someone else new to talk to."
-    p ""
+    p "Даже прикольно, что есть ещё кто-то новый для общения."
 
 # game/script.rpy:1545
 translate russian pomchad_a7aa6170:
 
     # a "Really?"
-    a ""
+    a "Правда?"
 
 # game/script.rpy:1551
 translate russian pomchad_0663bb42:
 
     # p "Yeah, I mean, everyone here treats all the weirdness of the school like its just business as usual."
-    p ""
+    p "Да, в смысле, здесь все воспринимают всю эту странность школы как что-то совершенно обычное."
 
 # game/script.rpy:1556
 translate russian pomchad_498852af:
 
     # p "Now I get to see how {i} you {/i} react to all the weirdness for the first time."
-    p ""
+    p "Теперь я смогу впервые увидеть, как {i} ты {/i} реагируешь на всю эту странность."
 
 # game/script.rpy:1558
 translate russian pomchad_79137683:
 
     # "{i} gulp {/i}"
-    ""
+    "{i} глоток {/i}"
 
 # game/script.rpy:1560
 translate russian pomchad_a0051840:
 
     # "It gets {i} weirder {/i} than this?"
-    ""
+    "То есть дальше всё ещё {i} страннее {/i}?"
 
 # game/script.rpy:1571
 translate russian pomragtantrum_db9f6e21:
 
     # a "I mean seriously, I can't even catch my breath."
-    a ""
+    a "Серьёзно, я даже перевести дух не могу."
 
 # game/script.rpy:1573
 translate russian pomragtantrum_7858ebe6:
 
     # p "Uh..."
-    p ""
+    p "Ам..."
 
 # game/script.rpy:1578
 translate russian pomragtantrum_6ee96dea:
 
     # r "Oh, that's okay [avatar]."
-    r ""
+    r "Ох, это нормально [avatar]."
 
 # game/script.rpy:1580
 translate russian pomragtantrum_336addae:
 
     # r "I didn't mean to overstimulate you."
-    r ""
+    r "Я не хотеля тебя перенагрузить."
 
 # game/script.rpy:1582
 translate russian pomragtantrum_6be83516:
 
     # "Overstimulate?"
-    ""
+    "Перенагрузить?"
 
 # game/script.rpy:1587
 translate russian pomragtantrum_0e63f67e:
 
     # r "The offer for a tour is still open, you know, if you're..."
-    r ""
+    r "Предложение провести экскурсию всё ещё в силе, знаешь, если ты..."
 
 # game/script.rpy:1589
 translate russian pomragtantrum_a5e579cc:
 
     # "She trails off, returning to her desk."
-    ""
+    "Она обрывает фразу и снова садится за парту."
 
 # game/script.rpy:1597
 translate russian pomragtantrum_30160fed:
 
     # p "So, uh, what was that all about?"
-    p ""
+    p "Так, ам, что это вообще было."
 
 # game/script.rpy:1599
 translate russian pomragtantrum_680409a5:
 
     # a "I mean I just sat down."
-    a ""
+    a "Я ведь просто сел сюда."
 
 # game/script.rpy:1601
 translate russian pomragtantrum_445c86b2:
 
     # a "I feel like I was just starting to talk to you, and then she got up in my face, and-"
-    a ""
+    a "Мне кажется, мы только завели диалог, и тут она подошла прямо ко мне, и-"
 
 # game/script.rpy:1606
 translate russian pomragtantrum_6afa7d1a:
 
     # "There's an awkward pause, I may have killed the vibe."
-    ""
+    "Повисает неловкая пауза, похоже момент испорчен."
 
 # game/script.rpy:1608
 translate russian pomragtantrum_e65f6683:
 
     # p "Well Ragatha can get on people's nerves sometimes, but that's no excuse to be so rude to her."
-    p ""
+    p "Ну Рагата парой раздражает, но это не повод грубить ей."
 
 # game/script.rpy:1610
 translate russian pomragtantrum_5f021bc8:
 
     # "Pomni turns away from me."
-    ""
+    "Помни отворачивается от меня."
 
 # game/script.rpy:1612
 translate russian pomragtantrum_820982c7:
 
     # "Any attempts I make at conversation are met with one-syllable answers."
-    ""
+    "Любые попытки завести разговор встречаются односложными ответами."
 
 # game/script.rpy:1614
 translate russian pomragtantrum_42fc09b4:
 
     # "Yep."
-    ""
+    "Да."
 
 # game/script.rpy:1616
 translate russian pomragtantrum_a4bd84e0:
 
     # "I {i} definitely {/i} killed the vibe."
-    ""
+    "Обстоновка реально {i} полностью {/i} была заруинина мной."
 
 # game/script.rpy:1628
 translate russian zoosit_048c5f3b:
@@ -10816,59 +10816,59 @@ translate russian strings:
 
     # game/script.rpy:8
     old "JAX"
-    new ""
+    new "ДЖЕКС"
 
     # game/script.rpy:9
     old "RAGATHA"
-    new ""
+    new "РАГАТА"
 
     # game/script.rpy:10
     old "GANGLE"
-    new ""
+    new "ГЭНГЛ"
 
     # game/script.rpy:11
     old "POMNI"
-    new ""
+    new "ПОМНИ"
 
     # game/script.rpy:12
     old "ZOOBLE"
-    new ""
+    new "ЗУБЛ"
 
     # game/script.rpy:13
     old "KINGER"
-    new ""
+    new "КОРОЛЁР"
 
     # game/script.rpy:14
     old "CAINE"
-    new ""
+    new "КЕЙН"
 
     # game/script.rpy:15
     old "BUBBLE"
-    new ""
+    new "ПУЗЫРЁК"
 
     # game/script.rpy:17
     old "ZOOBLE & GANGLE"
-    new ""
+    new "ЗУБЛ И ГЭНГЛ"
 
     # game/script.rpy:18
     old "RAGATHA & POMNI"
-    new ""
+    new "РАГАТА И ПОМНИ"
 
     # game/script.rpy:19
     old "XDDCC"
-    new ""
+    new "ИКСДДЦЦ"
 
     # game/script.rpy:20
     old "NPC"
-    new ""
+    new "НПС"
 
     # game/script.rpy:21
     old "MING"
-    new ""
+    new "КИЙ"
 
     # game/script.rpy:22
     old "SIR BASTION"
-    new ""
+    new "СЭР БАСТИОН"
 
     # game/script.rpy:23
     old "MAID"
@@ -10876,75 +10876,75 @@ translate russian strings:
 
     # game/script.rpy:24
     old "???"
-    new ""
+    new "???"
 
     # game/script.rpy:25
     old "GLOINK QUEEN"
-    new ""
+    new "КОРОЛЕВА ГЛОИНКОВ"
 
     # game/script.rpy:489
     old "Yep! That's my name."
-    new ""
+    new "Дап! Так меня зовут."
 
     # game/script.rpy:492
     old "When you say it that way, I’m not sure…"
-    new ""
+    new "После твоих слов уверенность теряется…"
 
     # game/script.rpy:554
     old "Hey everyone! I’m [avatar]. I look forward to learning with you all, and I hope we can all be friends."
-    new ""
+    new "Всем привет! Я [avatar]. С нетерпением буду учиться со всеми вами и надеюсь, что мы все подружимся."
 
     # game/script.rpy:559
     old "I’m [avatar]. Don’t mess with me, and we’ll be good."
-    new ""
+    new "Я [avatar]. Не связывайся со мной и всё будет хорошо."
 
     # game/script.rpy:563
     old "I’m [avatar] and I’m always down for a good time."
-    new ""
+    new "Я [avatar], и я всегда за хорошее времяпрепровождение."
 
     # game/script.rpy:581
     old "I take a seat next to the girl in colorful hat and sailor uniform"
-    new ""
+    new "Сесть рядом с девушкой в разноцветной шляпе и в школьной форме"
 
     # game/script.rpy:584
     old "I sit next to the shy-looking girl with a comedy mask and ribbon body"
-    new ""
+    new "Сесть рядом со стеснительной девочкой в комедийной маске и ленточным телом"
 
     # game/script.rpy:587
     old "I sit next to the mismatched figure with a bored look on their face"
-    new ""
+    new "Сесть рядом с разно-детальной фигурой со скучающей гримасой"
 
     # game/script.rpy:590
     old "I sit down next to the cheery looking ragdoll in front of the class"
-    new ""
+    new "Сесть рядом с радостной тряпичной куклой на первых рядах "
 
     # game/script.rpy:593
     old "I sit down with the mischievous looking purple rabbit"
-    new ""
+    new "Сесть рядом с хитрым на вид фиолетовым кроликом"
 
     # game/script.rpy:596
     old "I sit down in the teacher’s chair"
-    new ""
+    new "Сесть на кресло учителя"
 
     # game/script.rpy:636
     old "Warn her"
-    new ""
+    new "Предупредить её"
 
     # game/script.rpy:639
     old "Keep quiet and see what happens"
-    new ""
+    new "Молчать и смотреть, что случится"
 
     # game/script.rpy:772
     old "Yeah, that was hilarious!"
-    new ""
+    new "Да, это было уморительно!"
 
     # game/script.rpy:785
     old "I guess it was kinda funny…"
-    new ""
+    new "Возможно, было чутка забавно… "
 
     # game/script.rpy:798
     old "No, Jax, that was mean"
-    new ""
+    new "Нет, Джекс, это было грубо"
 
     # game/script.rpy:909
     old "I can enjoy a good prank, Jax"
@@ -10964,39 +10964,39 @@ translate russian strings:
 
     # game/script.rpy:1157
     old "Gangle?"
-    new ""
+    new "Гэнгл?"
 
     # game/script.rpy:1161
     old "Zooble?"
-    new ""
+    new "Зубл?"
 
     # game/script.rpy:1208
     old "This is impressive Gangle."
-    new ""
+    new "Это впечетляюще, Гэнгл."
 
     # game/script.rpy:1236
     old "Yeah I can see its pretty rough"
-    new ""
+    new "Да, вижу, что он достаточно грубый"
 
     # game/script.rpy:1284
     old "Wow, this is really cool, Zooble!"
-    new ""
+    new "Вау, это очень круто, Зубл!"
 
     # game/script.rpy:1310
     old "I’ve seen better"
-    new ""
+    new "Встречались и лучше"
 
     # game/script.rpy:1472
     old "A tour sounds great, Ragatha"
-    new ""
+    new "Экскурсия звучит классно, Рагата."
 
     # game/script.rpy:1477
     old "Actually, I'd like to keep talking with Pomni."
-    new ""
+    new "Вообще-то хотелось бы продолжить разговор с Помни."
 
     # game/script.rpy:1481
     old "Can you two jump off my back? I just sat down."
-    new ""
+    new "Можете вы двое от меня отстать? Даже сесть спокойно не дают."
 
     # game/script.rpy:1743
     old "Sure, I'll sit next to you Pomni."
