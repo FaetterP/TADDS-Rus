@@ -1,6 +1,6 @@
 # TADDS-Rus
 
-Русификатор для игры [The Amazing Digital Dating Simulator](https://vocastar.itch.io/tadds-fangame-demo).  
+Русификатор для игры [The Amazing Digital Dating Simulator](https://vocastar.itch.io/tadds-fangame) (релизная версия).  
 /!\ Русификатор находится в разработке  
 Буду рад *звёздочке ⭐* на этом репозитории.
 
