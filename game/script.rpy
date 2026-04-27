@@ -23,6 +23,25 @@ define sb = Character (_("SIR BASTION"))
 define md = Character (_("MAID"))
 define q = Character (_("???"))
 define gq = Character (_("GLOINK QUEEN"))
+define pa = Character (_("POMNI & [avatar.upper()]"))
+define cbd = Character (_("COL. BAD DAD"))
+define dg = Character (_("DISAPPEARING GUY"))
+define ja = Character (_("JAX & [avatar.upper()]"))
+define jk = Character (_("JAX & KINGER"))
+define pj = Character (_("POMNI & JAX"))
+define un = Character (_("UZUMAKI NINJA"))
+define ej = Character (_("EVIL JAX"))
+define ejj = Character (_("JAX?"))
+define o = Character (_("ORBSMAN"))
+define ep = Character (_("EVIL POMNI"))
+define mc = Character (_("MC"))
+define au = Character (_("AUDIENCE"))
+define za = Character (_("ZOOBLE & [avatar.upper()]"))
+define w = Character (_("WAITER"))
+define cv = Character (_("CAINE'S VOICE"))
+define gg = Character (_("GUMMIGOO"))
+define cb = Character (_("CAINE & BUBBLE"))
+
 
 # NVL characters are used for the phone texting
 define j_nvl = Character(_("JAX"), kind=nvl, image="nighten", callback=Phone_SendSound)
@@ -40,47 +59,93 @@ define config.nvl_adv_transition = Dissolve(0.3)
 # Cg's and other art
 
 image D1gameover = "CGs/D1gameover.png"
+image gameover2 = "CGs/gameover2.png"
+image gameover3 = "CGs/gameover3.png"
+image gameover4 = "CGs/gameover4.png"
+image gameover5 = "CGs/gameover5.png"
+image gameover6 = "CGs/gameover6.png"
+image gameover7 = "CGs/gameover7.png"
 
 image CG_cent2 = "CGs/centipede2 cg.png"
 image CG_cent = "CGs/centipede cg.png"
 image CG_nap = "CGs/jaxnap cg.png"
 image CG_stupid = "CGs/jaxstupid cg.png"
+image CG_stupid2 = "CGs/jax stupid2 cg.png"
 image CG_jfriends = "CGs/jaxfriends cg.png"
 image CG_jaxpinh = "CGs/jaxpinh cg.png"
 image CG_jaxpintm = "CGs/jaxpintm cg.png"
 image CG_jaxpintf = "CGs/jaxpintf cg.png"
-image CG_jaxpints = "CGs/jaxpints cg.png"
+image CG_jaxpins = "CGs/jaxpins cg.png"
+image CG_premeat = "CGs/pre meat cg.png"
+image CG_postmeat = "CGs/post meat cg.png"
+image CG_meat1 = "CGs/meat1 bg.png"
+image CG_meat2 = "CGs/meat2 bg.png"
+image CG_meat3 = "CGs/meat3 bg.png"
+image CG_bagfood = "CGs/bag o food.png"
+image CG_charms = "CGs/charms cg.png"
+image CG_jaxkissm = "CGs/jax kiss m cg.png"
+image CG_jaxkissf = "CGs/jax kiss f cg.png"
+image CG_jaxend = "CGs/jax fireworks cg.png"
 
 image CG_bedpicnic = "CGs/rag picnic cg.png"
 image CG_softball = "CGs/ragatha softball cg.png"
 image CG_ragcry = "CGs/rag cry cg.png"
 image CG_ragwalk = "CGs/rag walk cg.png"
 image CG_ragpj = "CGs/rag pj cg.png"
+image CG_ragkissm = "CGs/ragatha kiss m cg.png"
+image CG_ragkissf = "CGs/ragatha kiss f cg.png"
+image CG_ragend = "CGs/ragatha fireworks cg.png"
 
 image CG_vidgame = "CGs/pomni game cg.png"
+image CG_badlunch = "CGs/badlunch1 cg.png"
+image CG_badlunch2 = "CGs/badlunch2 cg.png"
 image CG_toast = "CGs/toast cg.png"
 image CG_libraryf = "CGs/libraryf cg.png"
 image CG_librarym = "CGs/librarym cg.png"
+image CG_rollercoasterf = "CGs/pomni photo f cg.png"
+image CG_rollercoasterm = "CGs/pomni photo m cg.png"
+image CG_panda = "CGs/pomni panda cg.png"
 image CG_wheel = "CGs/wheel cg.png"
+image CG_wheel2 = "CGs/wheel2 cg.png"
+image CG_pomkissf = "CGs/pomni kiss f cg.png"
+image CG_pomkissm = "CGs/pomni kiss m cg.png"
+image CG_pomkissf2 = "CGs/pomni kiss f cg2.png"
+image CG_pomkissm2 = "CGs/pomni kiss m cg2.png"
+image CG_pomend = "CGs/pomni fireworks cg.png"
 
 image ganart1 = "images/gangleart1.png"
 image ganart2 = "images/gangleart2.png"
 image zoobart1 = "images/zoobart1.png"
+image jaxart = "images/jaxart.png"
+image ganart3 = "images/gangleart3.png"
+image ganart4 = "images/gangleart4.png"
+
 
 image CG_ganskirt = "CGs/gangle skirt cg.png"
 image CG_ganyaoi = "CGs/gangle yaoi cg.png"
-image CG_pocky = "CGs/gangle pocky bg.png"
+image CG_pocky = "CGs/gangle pocky cg.png"
 image CG_ganwalkf = "CGs/gangle walk f cg.png"
 image CG_ganwalkm = "CGs/gangle walk m cg.png"
 image CG_gangleww = "CGs/gangleww.png"
+image CG_maidcafe = "CGs/gangle date cg.png"
+image CG_gankissm = "CGs/gangle kiss m cg.png"
+image CG_gankissf = "CGs/gangle kiss f cg.png"
+image CG_ganend = "CGs/gangle fireworks cg.png"
 
 image CG_zpin = "CGs/zooble pin cg.png"
 image CG_swim = "CGs/zooble swim cg.png"
 image CG_zparts = "CGs/zooble parts cg.png"
 image CG_zfriendsf = "CGs/zooble friends f cg.png"
 image CG_zfriendsm = "CGs/zooble friends m cg.png"
+image CG_cieling = "CGs/jax cieling cg.png"
+image CG_karaoke = "CGs/zooble karaoke cg.png"
+image CG_zoobband = "CGs/zooble band CG.png"
+image CG_zoobkissm = "CGs/zooble kiss m cg.png"
+image CG_zoobkissf = "CGs/zooble kiss f cg.png"
+image CG_zoobend = "CGs/zooble fireworks cg.png"
 
 image dark = "images/bgs/dark.png"
+image CG_ragathadorm = "images/bgs/ragatha dorm.png"
 image CG_wackywatch1 = "CGs/wackywatch1.png"
 image CG_wackywatch2 = "CGs/wackywatch2.png"
 image censor_bar = "images/censor_bar.png"
@@ -94,7 +159,16 @@ image DAY1 = "images/DAY1.png"
 image DAY1 complete = "images/DAY1 complete.png"
 image DAY2 = "images/DAY2.png"
 image DAY2 complete = "images/DAY2 complete.png"
+image DAY3 = "images/DAY3.png"
+image DAY3 complete = "images/DAY3 complete.png"
+image DAY4 = "images/DAY4.png"
+image DAY4 complete = "images/DAY4 complete.png"
 image DISCLAIMER = "images/DISCLAIMER.png"
+image CG_closetzm = "CGs/closetzoobm.png"
+image CG_closetzf = "CGs/closetzoobf.png"
+image zoobnote = "CGs/zoobnote.png"
+image CG_yukata = "CGs/yukata cg.png"
+image yukatanote = "CGs/yukatanote.png"
 
 #Transforms and animations
 transform top_left:
@@ -189,6 +263,23 @@ default snitch = False
 default scavenge = False
 default zoobpool = False
 default zoobfriend = False
+default caf_done = False
+default artroom_done = False
+default home_done = False
+default ragacuck2 = False
+default zoobnet = False
+default poolswim = False
+default ganbetrayal = False
+default jaxdream = False
+default stupidburger = False
+default ragquest = False
+default kingquest = False
+default ss = False
+default ts = False
+default hle = False
+default ragditch = False
+default pajamaparty = False
+default jaxcloset = False
 
 define flash = Fade(0.5, 0.5, 0.5, color="#fff")
 
@@ -199,6 +290,21 @@ define gui.characters_outline_scaling = "linear"
 style say_label:
     outlines [ ( 3, "#4890C4", 0, 0) ]
     outline_scaling "linear"
+
+screen tattoo():
+    imagebutton:
+        xalign 0.25
+        yalign 0.5
+
+        auto "tattoo1_%s.png" 
+        action [Hide("tattoo"), Jump ("henna")]
+    
+    imagebutton:
+        xalign 0.75
+        yalign 0.5
+
+        auto "tattoo2_%s.png" 
+        action [Hide("tattoo"), Jump ("henna")]
 
 screen uniform():
     imagebutton:
@@ -430,6 +536,11 @@ label start:
 
     c "I'm Caine, and I'll be your Principal for the duration of your stay here at the Amazing Digital Academy!"
 
+    if renpy.has_label("dlcContent"):
+        jump dlcContent
+
+    label student:
+
     show fading_chars
     
     hide cainmyself
@@ -466,7 +577,7 @@ label start:
     hide cainneutral
     show cainwallbrk 
 
-    c "Let's get you enrolled! First thing's first, what uniform will you be dawning?"
+    c "Let's get you enrolled! First thing's first, what uniform will you be donning?"
 
     hide cainwallbrk with moveoutbottom
 
@@ -1190,7 +1301,7 @@ label start:
 
         "An anime style sketch, complete with big eyes, small mouth, and a big head."
 
-        "Upon further inspection it kind of looks familiar. Gangle interrupts your thoughts."
+        "Upon further inspection it kind of looks familiar. Gangle interrupts my thoughts."
 
         hide gantimid
         show gannervous
@@ -2081,7 +2192,7 @@ label seatchoice_done:
 
     stop music fadeout 1.0
 
-    "As abruptly as he appeared, Caine darted out of the room, disappearing from view as he headed to his appointment."
+    "As abruptly as he appeared, Caine darts out of the room, disappearing from view as he heads to his appointment."
 
     play music "audio/Morning.mp3" volume 0.5 fadein 1.0
 
@@ -2288,8 +2399,8 @@ label seatchoice_done:
         with flash
         show afternoon at top_left
 
-        "I walked into the library with my tray in my hand." 
-        "I peered through the rows of dusty, cluttered, shelves, and I saw Jax and Pomni by the tables in the middle of the library."
+        "I walk into the library with my tray in hand." 
+        "I peer through the rows of dusty, cluttered, shelves, and I see Jax and Pomni by the tables in the middle of the library."
 
         "Even from here, I can tell Jax is up to trouble, he’s tapping his foot impatiently and pacing back and forth." 
         "I can barely make out Pomni, craning her neck to peer up into the tall bunny’s yellow eyes."
@@ -2431,14 +2542,13 @@ label seatchoice_done:
         hide pomawkward
         show pomreassure
 
-        "So, it looks like it's up to us new kids to find out what the culture fair is about!"
+        p "So, it looks like it's up to us new kids to find out what the culture fair is about!"
 
         "I nod."
 
         a "How hard could it be to find a book about culture festivals?"
 
-        scene library bg
-        show afternoon at top_left
+        hide pomreassure with moveoutbottom
 
         "We proceed into the depths of the library, I pretty much forget about lunch as we search the shelves." 
         "Each book is so caked with dust, it feels like the library is a forgotten archive."
@@ -2831,7 +2941,7 @@ label seatchoice_done:
 
             a "Cool..."
 
-            scene stairwell bg
+            scene stairwell bg with flash
             show afternoon at top_left
 
             "Jax lets us back in. We sneak our way up the main stairwell, and are almost at Ragatha’s locker, when our class rep herself shows up, strolling down the hallway."
@@ -3220,7 +3330,7 @@ label seatchoice_done:
             show zoobbasic at myleft 
             with moveinleft
 
-            "Zooble lifts up her claw-hand in a friendly wave as well."
+            "Zooble lifts up their claw-hand in a friendly wave as well."
 
             a "Hi guys, thanks for the invite!"
 
@@ -3927,7 +4037,7 @@ label seatchoice_done:
 
                 "They look at me, gratitude in their eyes."
 
-                "Thanks for hanging out with us, [avatar]."
+                z "Thanks for hanging out with us, [avatar]."
 
                 "They say before heading out. I should probably go grab my things too."
 
@@ -5117,7 +5227,7 @@ label seatchoice_done:
 
         pause
 
-        jump DEMO_END
+        return
 
 
 
@@ -5804,11 +5914,11 @@ label seatchoice_done:
 
         "She gives a jovial swing of her arm, sliding her door open."
 
-        show dark with fade
+        show CG_ragathadorm with fade
 
         "The inside is adorned with doilies, a thick blue duvet covers her bed, and I think I even see a tea-set on her white dresser."
 
-        hide dark with fade
+        hide CG_ragathadorm with fade
 
         hide ragsmile
         show ragconfident at myright
@@ -6448,14 +6558,14 @@ label seatchoice_done:
         hide jaxtired
         show jaximpatient
 
-        a "Listen, new kid, get it through your head."
+        j "Listen, new kid, get it through your head."
 
         hide jaximpatient
         show jaxexasperated
 
         j "There is no outside world."
 
-        a "There’s the school,"
+        j "There’s the school,"
 
         "He points to the large brick building across from where we are."
 
@@ -6801,15 +6911,19 @@ label seatchoice_done:
             
             p_nvl "Oops, guess Caine forgot to update my name here too"
             p_nvl "{image=emoji/shock.png}"
-            p_nvl " Anyways, I wanted to thank you for sticking with me today, and for helping me out in the library."
-            p_nvl "I know this place is weird, but maybe if us new kids stick together, we can still have a good time."
+            p_nvl " Anyways, I wanted to thank you for sticking with me today"
+            p_nvl "and for helping me out in the library."
+            p_nvl "I know this place is weird"
+            p_nvl "but maybe if us new kids stick together, we can still have a good time."
             p_nvl "{image=emoji/happy.png}"
             a_nvl "Yeah, honestly sometimes I feel like you’re the only one who gets me"
-            a_nvl "Maybe cause we’re both the new kids, but I really appreciate you hanging out with me today"
+            a_nvl "Maybe cause we’re both the new kids..."
+            a_nvl "but I really appreciate you hanging out with me today"
             a_nvl "I’m still getting used to things though"
             p_nvl "{image=emoji/blush.png}"
             p_nvl "Well, I’m not going anywhere any time soon"
-            p_nvl "So if we keep sticking together, maybe you can feel like a member of the class too"
+            p_nvl "So if we keep sticking together..."
+            p_nvl "maybe you can feel like a member of the class too"
             a_nvl "Yeah, I’d like that too"
             p_nvl "Good night, study partner {image=emoji/happy.png}"
             a_nvl "Good night, Pomni"
@@ -6840,7 +6954,7 @@ label seatchoice_done:
 
             pause 1.0
 
-            jump DEMO_END
+            jump Day_2
 
         if ganwalk:
             "I got a picture chat from Gangle, it looks like she may have used a filter for her profile picture..."
@@ -6851,8 +6965,11 @@ label seatchoice_done:
             g_nvl " I really appreciate the time you spent with me today [avatar]." 
             g_nvl "From sitting next to me in class today to being nice about my art." 
             g_nvl "I know this place isn’t very fun, but I hope we can keep spending time together."
-            a_nvl "You’re pretty cool Gangle, I really liked drawing posters with you today, even if my art skills need work"
-            g_nvl "I really think everyone can do art if they try, and I can help you with some pointers if you want"
+            a_nvl "You’re pretty cool Gangle" 
+            a_nvl "I really liked drawing posters with you today" 
+            a_nvl "even if my art skills need work"
+            g_nvl "I really think everyone can do art if they try"
+            g_nvl "and I can help you with some pointers if you want"
             a_nvl "That sounds perfect, Gangle"
             g_nvl "{image=images/wwgangle3.png}"
             a_nvl "Your art on the picture chat app is so cool, btw"
@@ -6887,7 +7004,7 @@ label seatchoice_done:
 
             pause 1.0
 
-            jump DEMO_END
+            jump Day_2
 
         if zoowalk: 
             "I got a text from Zooble. Looks like they haven't updated their profile picture."
@@ -6906,7 +7023,8 @@ label seatchoice_done:
 
 
                 z_nvl "and thanks. For everything today." 
-                z_nvl "For sitting with me and humoring me, and for helping me smooth things over with Gangle" 
+                z_nvl "For sitting with me and humoring me," 
+                z_nvl "and for helping me smooth things over with Gangle" 
                 z_nvl "and for being cool when we made fun of your art."
                 z_nvl "You seem like a really cool person, and I hope you keep spending time with the art club"
                 z_nvl "even if you can’t draw for s{image=censor_bar}"
@@ -6939,7 +7057,7 @@ label seatchoice_done:
 
             pause 1.0
 
-            jump DEMO_END
+            jump Day_2
 
 
 
@@ -6990,7 +7108,7 @@ label seatchoice_done:
 
             pause 1.0
 
-            jump DEMO_END
+            jump Day_2
 
         if jaxwalk:
             "I got a text from Jax. He has set his avatar to a picture of himself flipping off the camera."
@@ -7002,11 +7120,11 @@ label seatchoice_done:
             "I laugh, that sounds like the Jax I know."
 
             a_nvl "You didn’t miss much"
-            a_nvl "Apparently principal Caine took a sponsorship from wacky watch to keep the school open or something"
+            a_nvl "Apparently principal Caine took a sponsorship from wacky watch" 
+            a_nvl "to keep the school open or something"
             a_nvl "And now they’re physically stuck on us"
             j_nvl "They really are"
             j_nvl "This sucks"
-            j_nvl "The fact that I could be subjected to Ragatha or Gangle’s opinion at any time has to violate some sort of convention"
             a_nvl "Yeah, but at least we can text each other whenever, right?"
             j_nvl "I guess"
             j_nvl "{image=emoji/eyeroll.png}"
@@ -7040,12 +7158,7 @@ label seatchoice_done:
 
             pause 1.0
 
-            jump DEMO_END
-
-label DEMO_END:
-    show demo page with fade
-    pause
-    return
+            jump Day_2
 
    
 
