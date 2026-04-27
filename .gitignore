@@ -5,6 +5,8 @@ renpy/*
 TADDS/*
 game/*
 cache/*
+fonts/*
+bg void.png
 !game/tl/
 game/tl/None
 !game/tl/russian
@@ -30,8 +32,8 @@ errors.txt
 /options.rpy
 /screens.rpy
 
-DEMO.exe
-DEMO.py
-DEMO.sh
+TADDS.exe
+TADDS.py
+TADDS.sh
 
 .vscode
