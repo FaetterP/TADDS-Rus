@@ -10930,6 +10930,78 @@ translate russian strings:
     old "GLOINK QUEEN"
     new "КОРОЛЕВА ГЛОИНКОВ"
 
+    # game/script.rpy:26
+    old "POMNI & [avatar.upper()]"
+    new "ПОМНИ И [avatar.upper()]"
+
+    # game/script.rpy:27
+    old "COL. BAD DAD"
+    new ""
+
+    # game/script.rpy:28
+    old "DISAPPEARING GUY"
+    new ""
+
+    # game/script.rpy:29
+    old "JAX & [avatar.upper()]"
+    new ""
+
+    # game/script.rpy:30
+    old "JAX & KINGER"
+    new ""
+
+    # game/script.rpy:31
+    old "POMNI & JAX"
+    new ""
+
+    # game/script.rpy:32
+    old "UZUMAKI NINJA"
+    new ""
+
+    # game/script.rpy:33
+    old "EVIL JAX"
+    new ""
+
+    # game/script.rpy:34
+    old "JAX?"
+    new ""
+
+    # game/script.rpy:35
+    old "ORBSMAN"
+    new ""
+
+    # game/script.rpy:36
+    old "EVIL POMNI"
+    new ""
+
+    # game/script.rpy:37
+    old "MC"
+    new ""
+
+    # game/script.rpy:38
+    old "AUDIENCE"
+    new ""
+
+    # game/script.rpy:39
+    old "ZOOBLE & [avatar.upper()]"
+    new ""
+
+    # game/script.rpy:40
+    old "WAITER"
+    new ""
+
+    # game/script.rpy:41
+    old "CAINE'S VOICE"
+    new ""
+
+    # game/script.rpy:42
+    old "GUMMIGOO"
+    new ""
+
+    # game/script.rpy:43
+    old "CAINE & BUBBLE"
+    new ""
+
     # game/script.rpy:600
     old "Yep! That's my name."
     new "Дап! Так меня зовут."

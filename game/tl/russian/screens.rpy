@@ -138,6 +138,10 @@ translate russian strings:
     old "Transitions"
     new "Переходы"
 
+    # game/screens.rpy:773
+    old "Language"
+    new "Язык"
+
     # game/screens.rpy:779
     old "Text Speed"
     new "Скорость текста"
