@@ -4,21 +4,21 @@ translate russian strings:
 
     # game/gallery_navigation.rpy:11
     old "Pomni"
-    new ""
+    new "Помни"
 
     # game/gallery_navigation.rpy:12
     old "Jax"
-    new ""
+    new "Джекс"
 
     # game/gallery_navigation.rpy:13
     old "Ragatha"
-    new ""
+    new "Рагата"
 
     # game/gallery_navigation.rpy:14
     old "Gangle"
-    new ""
+    new "Гэнгл"
 
     # game/gallery_navigation.rpy:15
     old "Zooble"
-    new ""
+    new "Зубл"
 
