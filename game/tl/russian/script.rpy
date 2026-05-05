@@ -10,7 +10,7 @@ translate russian start_57dd338d:
 translate russian start_6e75e571:
 
     # c "I'm Caine, and I'll be your Principal for the duration of your stay here at the Amazing Digital Academy!"
-    c "Я Кейн, и я буду вашим директором на то время, пока вы находитесь здесь, в Удивительной Цифровой академии!"
+    c "Я Кейн, и я буду вашим директором на то время, пока вы находитесь здесь, в Удивительной Цифровой Академии!"
 
 # game/script.rpy:553
 translate russian student_35f123e3:
@@ -28,7 +28,7 @@ translate russian student_d50a7d34:
 translate russian student_e273b2d5:
 
     # c "All this while possibly finding love along the way!"
-    c "И заодно, возможно, найдите любовь!"
+    c "И заодно, возможно, найдёте любовь!"
 
 # game/script.rpy:575
 translate russian student_4e3826a6:
@@ -40,7 +40,7 @@ translate russian student_4e3826a6:
 translate russian student_ba1fae1d:
 
     # c "Let's get you enrolled! First thing's first, what uniform will you be donning?"
-    c ""
+    c "Давайте запишем вас! Первым делом, какую форму вы будете носить?"
 
 # game/script.rpy:588
 translate russian student_fa92b1b7:
@@ -94,7 +94,7 @@ translate russian name_yesdone_249a0d52:
 translate russian name_yesdone_1408305e:
 
     # "I glance down at my class schedule. This should be ENGLISH 101 with Mr. Kinger. So where is the teacher?"
-    "Я мельком смотрю на расписание уроков. Должен быть Английский 101 с Мистером Королёром... Но где же он?"
+    "Я мельком смотрю на расписание уроков. Должен быть Английский 101 с Мистером Королёром. Но где же он?"
 
 # game/script.rpy:637
 translate russian name_yesdone_be36ce92:
@@ -112,7 +112,7 @@ translate russian name_yesdone_668d90ee:
 translate russian name_yesdone_3dd9ad9e:
 
     # "It takes me a moment to put two and two together, but when I do, I almost groan at the pun. Surely his name can’t really be"
-    "Это заняло у меня мгновение, чтобы сложить дважды два, но когда до меня доходит, я тяжко вздыхаю от этой игры слов. Его имя же не может быть..."
+    "Это заняло у меня мгновение, чтобы сложить дважды два, но когда до меня доходит, я тяжко вздыхаю от этой игры слов. Его имя же не может быть"
 
 # game/script.rpy:645
 translate russian name_yesdone_a59de6eb:
@@ -136,7 +136,7 @@ translate russian name_yesdone_eb39489f:
 translate russian name_yesdone_d191dcc8:
 
     # k "Good morning students! On the docket today we have a new student named...!"
-    k "Доброе утро, студенты! На повестке дня у нас новый студент по имени…!"
+    k "Доброе утро, студенты! На повестке дня у нас новый студент по имени...!"
 
 # game/script.rpy:662
 translate russian name_yesdone_934e37b6:
@@ -310,7 +310,7 @@ translate russian choice1_jax_09d97599:
 translate russian choice1_jax_e0e3a532:
 
     # g "Eeeeew! Jax! What is thaaat? What did you do? Eeeew!"
-    g "Иииууу! Джекс! Что этооо? Что ты сделал? Фиии!!!"
+    g "Иииииу! Джекс! Что этооо? Что ты сделал? Ииииу!"
 
 # game/script.rpy:828
 translate russian choice1_jax_3bf5d573:
@@ -418,7 +418,7 @@ translate russian choice1_jax_cc9b7f13:
 translate russian choice1_jax_e292a398:
 
     # "I can’t help but audibly gulp, and hope I haven’t thrown my lot in with the wrong person"
-    "Я сглатываю ком в горле, надеясь, что не связываюсь не с тем человеком."
+    "Я сглатываю ком в горле, надеясь, что не связываюсь не с тем человеком"
 
 # game/script.rpy:913
 translate russian choice1_jax_c59fffb1:
@@ -1234,7 +1234,7 @@ translate russian pomsit_c571958c:
 translate russian pomsit_cd22d7a3:
 
     # "Written on it is the name XDDCC, though I'm pretty sure I heard another student address her as Pomni."
-    "На ней написано имя ИКСДДЦЦ, хотя я помню, что другой студент называл ее Помни."
+    "На ней написано имя ИКСДДЦЦ, хотя я помню, что другой студент называл её Помни."
 
 # game/script.rpy:1477
 translate russian pomsit_86fd774b:
@@ -1456,7 +1456,7 @@ translate russian ragacuck_1b8f4c93:
 translate russian ragacuck_3c7c731a:
 
     # r "Welp! Guess it's just us this afternoon, [avatar]!"
-    r "Ладно! Похоже, этим днём мы вдвоём."
+    r "Ну что же! Похоже, сегодня днём ​​только мы, [avatar]!"
 
 # game/script.rpy:1631
 translate russian ragacuck_e66e4749:
@@ -1474,7 +1474,7 @@ translate russian pomchad_17fc703d:
 translate russian pomchad_cae0b743:
 
     # "Pomni gives me a small smile"
-    "Помни слабо улыбается мне."
+    "Помни слабо улыбается мне"
 
 # game/script.rpy:1647
 translate russian pomchad_5256a57f:
@@ -10920,7 +10920,7 @@ translate russian strings:
 
     # game/script.rpy:23
     old "MAID"
-    new ""
+    new "Горничная"
 
     # game/script.rpy:24
     old "???"
@@ -10940,67 +10940,67 @@ translate russian strings:
 
     # game/script.rpy:28
     old "DISAPPEARING GUY"
-    new ""
+    new "ИСЧЕЗАЮЩИЙ ПАРЕНЬ"
 
     # game/script.rpy:29
     old "JAX & [avatar.upper()]"
-    new ""
+    new "ДЖЕКС И [avatar.upper()]"
 
     # game/script.rpy:30
     old "JAX & KINGER"
-    new ""
+    new "ДЖЕКС И КОРОЛЁР"
 
     # game/script.rpy:31
     old "POMNI & JAX"
-    new ""
+    new "ПОМНИ И ДЖЕКС"
 
     # game/script.rpy:32
     old "UZUMAKI NINJA"
-    new ""
+    new "УЗУМАКИ НИНДЗЯ"
 
     # game/script.rpy:33
     old "EVIL JAX"
-    new ""
+    new "ЗЛОЙ ДЖЕКС"
 
     # game/script.rpy:34
     old "JAX?"
-    new ""
+    new "ДЖЕКС?"
 
     # game/script.rpy:35
     old "ORBSMAN"
-    new ""
+    new "ОРБСМЭН"
 
     # game/script.rpy:36
     old "EVIL POMNI"
-    new ""
+    new "ЗЛАЯ ПОМНИ"
 
     # game/script.rpy:37
     old "MC"
-    new ""
+    new "МС"
 
     # game/script.rpy:38
     old "AUDIENCE"
-    new ""
+    new "ПУБЛИКА"
 
     # game/script.rpy:39
     old "ZOOBLE & [avatar.upper()]"
-    new ""
+    new "ЗУБЛ И [avatar.upper()]"
 
     # game/script.rpy:40
     old "WAITER"
-    new ""
+    new "ОФИЦИАНТ"
 
     # game/script.rpy:41
     old "CAINE'S VOICE"
-    new ""
+    new "ГОЛОС КЕЙНА"
 
     # game/script.rpy:42
     old "GUMMIGOO"
-    new ""
+    new "ГАММИГУ"
 
     # game/script.rpy:43
     old "CAINE & BUBBLE"
-    new ""
+    new "КЕЙН И ПУЗЫРЁК"
 
     # game/script.rpy:600
     old "Yep! That's my name."
