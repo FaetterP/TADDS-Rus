@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-04-27 22:26
+﻿# TODO: Translation updated at 2026-05-07 22:49
 
 # game/Day2.rpy:18
 translate russian Day_2_05211457:
@@ -9301,9 +9301,9 @@ translate russian jax_route_c39b2516:
     ""
 
 # game/Day2.rpy:5407
-translate russian jax_route_52999c1a:
+translate russian jax_route_5f7a0d75:
 
-    # r "Kinger, [avatar] said he brought lunch for himself, but Jax is eating it!"
+    # r "Kinger, [avatar] said they brought lunch for themself, but Jax is eating it!"
     r ""
 
 # game/Day2.rpy:5417
