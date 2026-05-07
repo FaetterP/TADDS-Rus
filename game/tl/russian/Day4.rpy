@@ -11372,10 +11372,6 @@ translate russian strings:
     old "I don’t think Jax is lying."
     new ""
 
-    # game/Day4.rpy:685
-    old "Ragatha"
-    new ""
-
     # game/Day4.rpy:752
     old "Kinger"
     new ""
