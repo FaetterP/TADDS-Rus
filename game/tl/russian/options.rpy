@@ -4,5 +4,5 @@ translate russian strings:
 
     # game/options.rpy:15
     old "The Amazing Digital Dating Sim"
-    new ""
+    new "Удивительный цифровой симулятор свиданий"
 
